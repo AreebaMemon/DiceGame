@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom right, #6d0000, #a00000);
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+h1#title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #ffcccb;
+}
+
+.dice-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+  flex-wrap: wrap;
+}
+
+.player-section {
+  min-width: 100px;
+}
+
+.center-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#diceImage {
+  width: 100px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.Btn {
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  background-color: #ffcccb;
+  color: #6d0000;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Btn:hover {
+  background-color: #ffffff;
+  color: #a00000;
+}
+
+
+#resultMessage {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #ffd700;
+}
+
+footer {
+  margin-top: 30px;
+  font-size: 0.9rem;
+  color: #dddddd;
+}
+
