@@ -6,7 +6,7 @@ Welcome to **Dice Game** – a fun and interactive browser-based dice game where
 
 - 🎯 Random dice roll for both player and computer
 - 🧠 Real-time score updates
-- 🏆 Game ends when a player reaches 20 points
+- 🏆 Game ends when a player reaches 50 points
 - 🔒 Roll Dice button gets disabled after game ends
 - 🔄 Reset button to restart the game
 
