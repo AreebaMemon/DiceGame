@@ -21,8 +21,9 @@ Welcome to **Dice Game** – a fun and interactive browser-based dice game where
 
 ## 📂 Project Structure
 
+```text
 Dice-Game/
-├── dicee.html # Main HTML structure
-├── styles.css # Styling (dark theme)
-├── script.js # Game logic
-└── images/ # Folder containing dice images (dice1.png to dice6.png)
+├── dicee.html         # Main HTML structure
+├── styles.css         # Styling (dark theme)
+├── script.js          # Game logic
+└── images/            # Folder containing dice images (dice1.png to dice6.png)
