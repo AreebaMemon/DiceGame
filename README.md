@@ -12,7 +12,7 @@ Welcome to **Dice Game** – a fun and interactive browser-based dice game where
 
 ## 📸 Screenshot
 
-![Game Screenshot](images/SS.html(1).png)  
+![Game Screenshot](SS.html(1).png)  
 ## 🛠️ Technologies Used
 
 - HTML5
