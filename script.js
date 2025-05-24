@@ -46,4 +46,6 @@ resetGame.addEventListener("click", () => {
   rollBtn.textContent = "Roll Dice";
 
   diceImage.src = "images/dice6.png";
+
+  result.innerHTML = "Result Show Here"; 
 });
