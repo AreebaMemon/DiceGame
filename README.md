@@ -1,29 +1,68 @@
-# DiceGame
+---
 
-Welcome to **Dice Game** – a fun and interactive browser-based dice game where the **User** competes against the **Computer**. Roll the dice and see who wins!
+# 🎵 TapZone
+
+**TapZone** is a fun and interactive browser-based soundboard where each letter of the word **TAPZONE** plays a unique drum sound. Created for both entertainment and practice, this project helps beginners understand **DOM manipulation**, **event handling**, and **audio integration** in JavaScript.
+
+---
 
 ## 🚀 Features
 
-- 🎯 Random dice roll for both player and computer
-- 🧠 Real-time score updates
-- 🏆 Game ends when a player reaches 50 points
-- 🔒 Roll Dice button gets disabled after game ends
-- 🔄 Reset button to restart the game
+* 🎹 Seven interactive buttons: T, A, P, Z, O, N, E
+* 🔊 Each button plays a different drum sound
+* 🖱️ Mouse click event-based sound trigger
+* ✨ Stylish dark-themed responsive UI
+* 🖤 Press animation effect for visual feedback
+* 📱 Mobile-friendly layout with media queries
+
+---
 
 ## 📸 Screenshot
 
-![Game Screenshot](SS.png)  
+![TapZone Screenshot](SS.png)
+
+---
+
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3 (Dark Theme)
-- JavaScript (DOM Manipulation, Event Handling)
+* **HTML5** – Semantic page structure
+* **CSS3** – Dark theme, flexbox layout, animations
+* **JavaScript (ES6)** – DOM manipulation, event listeners, audio control
+
+---
 
 ## 📂 Project Structure
 
 ```text
-Dice-Game/
-├── dicee.html         # Main HTML structure
-├── styles.css         # Styling (dark theme)
-├── script.js          # Game logic
-└── images/            # Folder containing dice images (dice1.png to dice6.png)
+TapZone/
+├── index.html         # Main HTML file
+├── styles.css         # Styling with responsive layout
+├── script.js          # JavaScript logic for button sounds
+├── sounds/            # Folder containing sound files
+│   ├── tom-1.mp3
+│   ├── tom-2.mp3
+│   ├── tom-3.mp3
+│   ├── tom-4.mp3
+│   ├── crash.mp3
+│   ├── kick-bass.mp3
+│   └── snare.mp3
+└── SS.png             
+```
+
+---
+
+## 👩‍💻 How to Use
+
+1. Clone or download the repository.
+2. Make sure all sound files are present in the `sounds/` folder.
+3. Open `index.html` in your browser.
+4. Click any button to hear its unique drum sound!
+
+---
+
+## 🧑‍🎨 Author
+
+Made with ❤️ by **Areeba** 🎵
+© 2025 TapZone
+
+---
