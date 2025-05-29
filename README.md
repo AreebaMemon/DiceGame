@@ -19,7 +19,7 @@
 
 ## 📸 Screenshot
 
-![TapZone Screenshot](SS.png)
+![TapZone Screenshot]()
 
 ---
 
